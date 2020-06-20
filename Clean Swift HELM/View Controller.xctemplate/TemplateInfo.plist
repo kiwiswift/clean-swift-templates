@@ -68,6 +68,7 @@
 				<string>UIViewController</string>
 				<string>UITableViewController</string>
 				<string>UICollectionViewController</string>
+				<string>FormViewController</string>
 			</array>
 		</dict>
   </array>
