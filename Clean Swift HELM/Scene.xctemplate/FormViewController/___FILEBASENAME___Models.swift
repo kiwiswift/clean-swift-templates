@@ -13,11 +13,10 @@
 import Eureka
 
 struct ___VARIABLE_sceneName___Scene {
-        struct GetForm {
-        struct Request { }
-        struct Response { }
-        struct ViewModel {
-            var form: Form
-        }
+    struct GetForm { }
+    struct Request { }
+    struct Response { }
+    struct ViewModel {
+        var form: Form
     }
 }
